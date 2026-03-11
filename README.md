@@ -2,13 +2,14 @@
 
 💻 Aspiring Software Engineer | Data Analyst
 
-Skills
-SQL
-Python
-Data Analysis
-Excel
-Power BI
-statistics
+Skills:
+-SQL
+-Python
+-Data Analysis
+-Excel
+-Power BI
+-statistics
+
 Achievements
 🥉 HackerRank SQL Bronze Level – 85 Points
 
