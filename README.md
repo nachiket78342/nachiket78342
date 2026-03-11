@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi Iam Nachiket Ashok Shinde👋
 
-<!--
-**nachiket78342/nachiket78342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Engineer | Data Analyst
 
-Here are some ideas to get you started:
+Skills
+SQL
+Python
+Data Analysis
+Excel
+Power BI
+statistics
+Achievements
+🥉 HackerRank SQL Bronze Level – 85 Points
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Profiles
+linkedin:https://www.linkedin.com/in/nachiketashokshinde/ hackerrank:https://www.hackerrank.com/profile/nachiketashoksh1
