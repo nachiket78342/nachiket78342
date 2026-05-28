@@ -13,6 +13,7 @@
   
 ## Achievements
 🥇 HackerRank SQL Gold Level – 660 Points
+🌟 SQL(Basic) certificate -hackerrank
 
 ## Profiles
 linkedin:https://www.linkedin.com/in/nachiketashokshinde/ hackerrank:https://www.hackerrank.com/profile/nachiketashoksh1
